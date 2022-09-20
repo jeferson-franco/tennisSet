@@ -1,0 +1,20 @@
+{
+  "name": "tennisset",
+  "version": "1.0.0",
+  "description": "In tennis, the winner of a set is based on how many games each player wins. The first player to win `6` games is declared the winner **unless** their opponent had already won `5` games, in which case the set continues until one of the players has won `7` games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/tennisSet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/tennisSet/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/tennisSet#readme"
+}
